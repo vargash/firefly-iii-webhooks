@@ -1,6 +1,6 @@
 # firefly-iii-webhooks
 ![GitHub License](https://img.shields.io/github/license/vargash/firefly-iii-webhooks)
-[![GitHub Workflow](https://github.com/vargash/firefly-iii-webhooks/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/vargash/firefly-iii-webhooks/actions/workflows/docker-image.yml)
+[![Node.js CI](https://github.com/vargash/firefly-iii-webhooks/actions/workflows/build.yml/badge.svg)](https://github.com/vargash/firefly-iii-webhooks/actions/workflows/build.yml)
 
 A simple NodeJS server to receive Firefly III Webhooks
 
