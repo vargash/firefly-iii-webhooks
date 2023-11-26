@@ -1,8 +1,9 @@
-name: Docker Image CI
+name: Release
 
 on:
-  push:
-    branches: [ "main" ]
+  # push:
+  #   branches: [ "release" ]
+  workflow_dispatch:
 
 jobs:
   build:
