@@ -1,0 +1,28 @@
+{
+  "name": "fireflywebhooks",
+  "version": "1.0.0",
+  "description": "Firefly III webhooks server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vargash/firefly-iii-webhooks.git"
+  },
+  "keywords": [
+    "fireflyiii",
+    "nodejs",
+    "webhook",
+    "docker"
+  ],
+  "author": "Vargash",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Vargash/firefly-iii-webhooks/issues"
+  },
+  "homepage": "https://github.com/Vargash/firefly-iii-webhooks#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
