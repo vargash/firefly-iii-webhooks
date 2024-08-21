@@ -7,6 +7,7 @@ A simple NodeJS server to receive Firefly III Webhooks
 The server currently manage a `transaction:create` webhook, and is used to juggle transaction's `date`, `book_date` and `payment_date`.
 It may evolve in the future, based on new necessities for Firefly III automations.
 
+
 ## Installation
 
 If you are using Docker:
